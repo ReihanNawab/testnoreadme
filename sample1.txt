@@ -1,0 +1,1 @@
+This is to display the staging of all the files with same extensions.
